@@ -5,7 +5,7 @@ Bare-metal peripheral drivers for the **STM32F103C8T6 (Blue Pill)**, written in 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![MCU](https://img.shields.io/badge/MCU-STM32F103C8T6-green)
 ![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-informational)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 ## Table of Contents
 
@@ -74,8 +74,8 @@ stm32f1_drivers/
 ## Software Requirements
 
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
-- Git
-- Optional: [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) for flashing
+- [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
+- [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) for flashing
 
 ## Getting Started
 
