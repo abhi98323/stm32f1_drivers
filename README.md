@@ -30,15 +30,14 @@ This project is a collection of peripheral drivers for the STM32F1 series, built
 | Peripheral | Driver files | Status |
 |------------|--------------|--------|
 | GPIO | `stm32f1xx_gpio_driver.c/.h` | Done |
-| RCC / Clock | `stm32f1xx_rcc_driver.c/.h` | In progress |
-| EXTI / Interrupts | `stm32f1xx_exti_driver.c/.h` | Planned |
-| SPI | `stm32f1xx_spi_driver.c/.h` | Planned |
-| I2C | `stm32f1xx_i2c_driver.c/.h` | Planned |
-| USART | `stm32f1xx_usart_driver.c/.h` | Planned |
-| ADC | `stm32f1xx_adc_driver.c/.h` | Planned |
-| Timers / PWM | `stm32f1xx_tim_driver.c/.h` | Planned |
+| RCC / Clock | `stm32f1xx_rcc_driver.c/.h` | Done |
+| EXTI / Interrupts | `stm32f1xx_exti_driver.c/.h` | Done |
+| SPI | `stm32f1xx_spi_driver.c/.h` | Done |
+| I2C | `stm32f1xx_i2c_driver.c/.h` | Done|
+| USART | `stm32f1xx_usart_driver.c/.h` | Done |
+| ADC | `stm32f1xx_adc_driver.c/.h` | In progress|
+| Timers / PWM | `stm32f1xx_tim_driver.c/.h` | In progress|
 
-*(Edit this table to match what you have actually written.)*
 
 ## Repository Structure
 
@@ -154,11 +153,11 @@ int main(void)
 ## Roadmap
 
 - [x] GPIO driver
-- [ ] RCC clock configuration
-- [ ] EXTI and NVIC interrupt handling
-- [ ] SPI driver
-- [ ] I2C driver
-- [ ] USART driver
+- [x] RCC clock configuration
+- [x] EXTI and NVIC interrupt handling
+- [x] SPI driver
+- [x] I2C driver
+- [x] USART driver
 - [ ] ADC driver
 - [ ] Timer and PWM driver
 
