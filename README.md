@@ -82,7 +82,7 @@ stm32f1_drivers/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/stm32f1_drivers.git
+git clone https://github.com/<abhi98323>/stm32f1_drivers.git
 ```
 
 **2. Import into STM32CubeIDE**
