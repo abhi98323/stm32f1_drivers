@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+Debug/
+   Release/
+   build/
+   *.elf
+   *.bin
+   *.hex
+   *.map
+   *.lst
+   .settings/
