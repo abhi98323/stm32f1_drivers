@@ -1,0 +1,5 @@
+../Src/usarttx.c:20:6:USART2_Init	1
+../Src/usarttx.c:32:6:USART2_GPIOInit	1
+../Src/usarttx.c:54:6:GPIO_ButtonInit	1
+../Src/usarttx.c:84:6:delay	2
+../Src/usarttx.c:90:5:main	3
